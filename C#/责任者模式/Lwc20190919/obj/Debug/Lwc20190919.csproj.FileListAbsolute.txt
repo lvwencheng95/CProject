@@ -1,0 +1,6 @@
+D:\myCodeTest\lvwenchengTest\Lwc20190919\bin\Debug\Lwc20190919.exe.config
+D:\myCodeTest\lvwenchengTest\Lwc20190919\bin\Debug\Lwc20190919.exe
+D:\myCodeTest\lvwenchengTest\Lwc20190919\bin\Debug\Lwc20190919.pdb
+D:\myCodeTest\lvwenchengTest\Lwc20190919\obj\Debug\Lwc20190919.exe
+D:\myCodeTest\lvwenchengTest\Lwc20190919\obj\Debug\Lwc20190919.pdb
+D:\myCodeTest\lvwenchengTest\Lwc20190919\obj\Debug\Lwc20190919.csprojResolveAssemblyReference.cache

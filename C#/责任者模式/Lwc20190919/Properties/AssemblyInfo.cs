@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // 有关程序集的常规信息通过以下
 // 特性集控制。更改这些特性值可修改
 // 与程序集关联的信息。
-[assembly: AssemblyTitle("Lwc20190923")]
+[assembly: AssemblyTitle("Lwc20190919")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Lwc20190923")]
+[assembly: AssemblyProduct("Lwc20190919")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // 如果此项目向 COM 公开，则下列 GUID 用于类型库的 ID
-[assembly: Guid("0b28c59f-eb1b-4650-bfce-5c75dc9481bd")]
+[assembly: Guid("5ca32b3a-b3ac-4b16-8d5d-f81cabfa05ed")]
 
 // 程序集的版本信息由下面四个值组成: 
 //

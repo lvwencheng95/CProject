@@ -1,6 +1,0 @@
-D:\myCodeTest\lvwenchengTest\Lwc20190923\bin\Debug\Lwc20190923.exe.config
-D:\myCodeTest\lvwenchengTest\Lwc20190923\bin\Debug\Lwc20190923.exe
-D:\myCodeTest\lvwenchengTest\Lwc20190923\bin\Debug\Lwc20190923.pdb
-D:\myCodeTest\lvwenchengTest\Lwc20190923\obj\Debug\Lwc20190923.exe
-D:\myCodeTest\lvwenchengTest\Lwc20190923\obj\Debug\Lwc20190923.pdb
-D:\myCodeTest\lvwenchengTest\Lwc20190923\obj\Debug\Lwc20190923.csprojResolveAssemblyReference.cache
