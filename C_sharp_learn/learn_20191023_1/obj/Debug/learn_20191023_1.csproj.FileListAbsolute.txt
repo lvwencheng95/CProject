@@ -1,0 +1,5 @@
+D:\myCodeTest\lvwenchengTest\C_sharp_learn\learn_20191023_1\bin\Debug\learn_20191023_1.exe
+D:\myCodeTest\lvwenchengTest\C_sharp_learn\learn_20191023_1\bin\Debug\learn_20191023_1.pdb
+D:\myCodeTest\lvwenchengTest\C_sharp_learn\learn_20191023_1\obj\Debug\learn_20191023_1.csprojResolveAssemblyReference.cache
+D:\myCodeTest\lvwenchengTest\C_sharp_learn\learn_20191023_1\obj\Debug\learn_20191023_1.exe
+D:\myCodeTest\lvwenchengTest\C_sharp_learn\learn_20191023_1\obj\Debug\learn_20191023_1.pdb

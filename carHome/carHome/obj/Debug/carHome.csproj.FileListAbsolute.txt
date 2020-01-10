@@ -1,0 +1,11 @@
+D:\myCodeTest\lvwenchengTest\carHome\carHome\bin\Debug\carHome.exe
+D:\myCodeTest\lvwenchengTest\carHome\carHome\bin\Debug\carHome.pdb
+D:\myCodeTest\lvwenchengTest\carHome\carHome\obj\Debug\carHome.csprojResolveAssemblyReference.cache
+D:\myCodeTest\lvwenchengTest\carHome\carHome\obj\Debug\carHome.FrmLogin.resources
+D:\myCodeTest\lvwenchengTest\carHome\carHome\obj\Debug\carHome.FrmRegist.resources
+D:\myCodeTest\lvwenchengTest\carHome\carHome\obj\Debug\carHome.Properties.Resources.resources
+D:\myCodeTest\lvwenchengTest\carHome\carHome\obj\Debug\carHome.csproj.GenerateResource.Cache
+D:\myCodeTest\lvwenchengTest\carHome\carHome\obj\Debug\carHome.exe
+D:\myCodeTest\lvwenchengTest\carHome\carHome\obj\Debug\carHome.pdb
+D:\myCodeTest\lvwenchengTest\carHome\carHome\bin\Debug\carHome.exe.config
+D:\myCodeTest\lvwenchengTest\carHome\carHome\bin\Debug\mysql.data.dll

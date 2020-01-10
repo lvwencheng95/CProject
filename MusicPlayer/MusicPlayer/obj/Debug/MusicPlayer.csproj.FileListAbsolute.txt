@@ -1,0 +1,7 @@
+D:\myCodeTest\lvwenchengTest\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csprojResolveAssemblyReference.cache
+D:\myCodeTest\lvwenchengTest\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe.config
+D:\myCodeTest\lvwenchengTest\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe
+D:\myCodeTest\lvwenchengTest\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.pdb
+D:\myCodeTest\lvwenchengTest\MusicPlayer\MusicPlayer\bin\Debug\AxInterop.WMPLib.dll
+D:\myCodeTest\lvwenchengTest\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.exe
+D:\myCodeTest\lvwenchengTest\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.pdb

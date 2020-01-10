@@ -1,0 +1,5 @@
+D:\myCodeTest\lvwenchengTest\C_sharp_learn\learn_20191022_2\bin\Debug\learn_20191022_2.exe.config
+D:\myCodeTest\lvwenchengTest\C_sharp_learn\learn_20191022_2\bin\Debug\learn_20191022_2.exe
+D:\myCodeTest\lvwenchengTest\C_sharp_learn\learn_20191022_2\bin\Debug\learn_20191022_2.pdb
+D:\myCodeTest\lvwenchengTest\C_sharp_learn\learn_20191022_2\obj\Debug\learn_20191022_2.exe
+D:\myCodeTest\lvwenchengTest\C_sharp_learn\learn_20191022_2\obj\Debug\learn_20191022_2.pdb

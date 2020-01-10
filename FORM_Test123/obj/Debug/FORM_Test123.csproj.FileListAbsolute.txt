@@ -1,0 +1,5 @@
+D:\myCodeTest\lvwenchengTest\FORM_Test123\bin\Debug\FORM_Test123.dll
+D:\myCodeTest\lvwenchengTest\FORM_Test123\bin\Debug\FORM_Test123.pdb
+D:\myCodeTest\lvwenchengTest\FORM_Test123\obj\Debug\FORM_Test123.csprojResolveAssemblyReference.cache
+D:\myCodeTest\lvwenchengTest\FORM_Test123\obj\Debug\FORM_Test123.dll
+D:\myCodeTest\lvwenchengTest\FORM_Test123\obj\Debug\FORM_Test123.pdb

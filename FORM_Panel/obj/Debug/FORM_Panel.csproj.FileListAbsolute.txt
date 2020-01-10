@@ -1,0 +1,8 @@
+D:\myCodeTest\lvwenchengTest\FORM_Panel\bin\Debug\FORM_Panel.exe
+D:\myCodeTest\lvwenchengTest\FORM_Panel\bin\Debug\FORM_Panel.pdb
+D:\myCodeTest\lvwenchengTest\FORM_Panel\obj\Debug\FORM_Panel.csprojResolveAssemblyReference.cache
+D:\myCodeTest\lvwenchengTest\FORM_Panel\obj\Debug\FORM_Panel.Form1.resources
+D:\myCodeTest\lvwenchengTest\FORM_Panel\obj\Debug\FORM_Panel.Properties.Resources.resources
+D:\myCodeTest\lvwenchengTest\FORM_Panel\obj\Debug\FORM_Panel.csproj.GenerateResource.Cache
+D:\myCodeTest\lvwenchengTest\FORM_Panel\obj\Debug\FORM_Panel.exe
+D:\myCodeTest\lvwenchengTest\FORM_Panel\obj\Debug\FORM_Panel.pdb

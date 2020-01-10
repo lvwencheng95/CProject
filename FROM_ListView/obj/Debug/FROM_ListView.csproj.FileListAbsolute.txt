@@ -1,0 +1,9 @@
+D:\myCodeTest\lvwenchengTest\FROM_ListView\bin\Debug\FROM_ListView.exe.config
+D:\myCodeTest\lvwenchengTest\FROM_ListView\bin\Debug\FROM_ListView.exe
+D:\myCodeTest\lvwenchengTest\FROM_ListView\bin\Debug\FROM_ListView.pdb
+D:\myCodeTest\lvwenchengTest\FROM_ListView\obj\Debug\FROM_ListView.Properties.Resources.resources
+D:\myCodeTest\lvwenchengTest\FROM_ListView\obj\Debug\FROM_ListView.csproj.GenerateResource.Cache
+D:\myCodeTest\lvwenchengTest\FROM_ListView\obj\Debug\FROM_ListView.exe
+D:\myCodeTest\lvwenchengTest\FROM_ListView\obj\Debug\FROM_ListView.pdb
+D:\myCodeTest\lvwenchengTest\FROM_ListView\obj\Debug\FROM_ListView.Form20190730.resources
+D:\myCodeTest\lvwenchengTest\FROM_ListView\obj\Debug\FROM_ListView.csprojResolveAssemblyReference.cache

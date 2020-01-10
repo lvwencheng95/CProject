@@ -1,0 +1,5 @@
+D:\myCodeTest\lvwenchengTest\CodeTest_20190812\bin\Debug\CodeTest_20190812.exe.config
+D:\myCodeTest\lvwenchengTest\CodeTest_20190812\bin\Debug\CodeTest_20190812.exe
+D:\myCodeTest\lvwenchengTest\CodeTest_20190812\bin\Debug\CodeTest_20190812.pdb
+D:\myCodeTest\lvwenchengTest\CodeTest_20190812\obj\Debug\CodeTest_20190812.exe
+D:\myCodeTest\lvwenchengTest\CodeTest_20190812\obj\Debug\CodeTest_20190812.pdb

@@ -1,0 +1,9 @@
+D:\myCodeTest\lvwenchengTest\FormTabControl\bin\Debug\FormTabControl.exe
+D:\myCodeTest\lvwenchengTest\FormTabControl\bin\Debug\FormTabControl.pdb
+D:\myCodeTest\lvwenchengTest\FormTabControl\obj\Debug\FormTabControl.Form1.resources
+D:\myCodeTest\lvwenchengTest\FormTabControl\obj\Debug\FormTabControl.Properties.Resources.resources
+D:\myCodeTest\lvwenchengTest\FormTabControl\obj\Debug\FormTabControl.csproj.GenerateResource.Cache
+D:\myCodeTest\lvwenchengTest\FormTabControl\obj\Debug\FormTabControl.exe
+D:\myCodeTest\lvwenchengTest\FormTabControl\obj\Debug\FormTabControl.pdb
+D:\myCodeTest\lvwenchengTest\FormTabControl\bin\Debug\FormTabControl.exe.config
+D:\myCodeTest\lvwenchengTest\FormTabControl\bin\Debug\mysql.data.dll

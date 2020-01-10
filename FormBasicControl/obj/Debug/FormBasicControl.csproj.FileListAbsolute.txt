@@ -1,0 +1,8 @@
+D:\myCodeTest\lvwenchengTest\FormBasicControl\bin\Debug\FormBasicControl.exe
+D:\myCodeTest\lvwenchengTest\FormBasicControl\bin\Debug\FormBasicControl.pdb
+D:\myCodeTest\lvwenchengTest\FormBasicControl\obj\Debug\FormBasicControl.Form1.resources
+D:\myCodeTest\lvwenchengTest\FormBasicControl\obj\Debug\FormBasicControl.Properties.Resources.resources
+D:\myCodeTest\lvwenchengTest\FormBasicControl\obj\Debug\FormBasicControl.csproj.GenerateResource.Cache
+D:\myCodeTest\lvwenchengTest\FormBasicControl\obj\Debug\FormBasicControl.exe
+D:\myCodeTest\lvwenchengTest\FormBasicControl\obj\Debug\FormBasicControl.pdb
+D:\myCodeTest\lvwenchengTest\FormBasicControl\obj\Debug\FormBasicControl.csprojResolveAssemblyReference.cache
