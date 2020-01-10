@@ -1,8 +1,11 @@
 #include <iostream>
 #include <string>
 #include <hash_map>
-
+/*
+实现版本控制.
+*/
 using namespace std;
+
 string extract_summary(string description[], int description_len, string key_word[], int key_word_len);
 int main()
 {
